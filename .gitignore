@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+.idea
+/.idea
+.vscode
+composer.lock

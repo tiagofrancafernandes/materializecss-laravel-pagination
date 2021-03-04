@@ -1,0 +1,30 @@
+{
+    "name": "tiagof2/materializecss-laravel-pagination",
+    "description": "MaterializeCSS Laravel Pagination",
+    "license": "MIT",
+    "keywords": ["laravel", "materializecss", "materialize", "pagination", "paginate", "tiagof2"],
+    "homepage": "https://tiagofranca.com",
+    "authors": [
+        {
+            "name": "Tiago França",
+            "email": "dev@tiagofranca.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TiagoF2\\MaterializePagination": "src/MaterializePagination/"
+        }
+    },
+    "require": {
+        "php": "^7.2|^8.0",
+        "ext-json": "*",
+        "illuminate/contracts": "^7.0",
+        "illuminate/support": "^7.0",
+        "illuminate/pagination": "^7.0",
+        "illuminate/database": "^7.0"
+    },
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist"
+    }
+}
