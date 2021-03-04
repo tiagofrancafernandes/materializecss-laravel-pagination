@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "TiagoF2\\MaterializePagination": "src/MaterializePagination/"
+            "TiagoF2\\MaterializePagination\\": "src/MaterializePagination/"
         }
     },
     "require": {
