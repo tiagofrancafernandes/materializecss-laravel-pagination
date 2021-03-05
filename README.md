@@ -3,6 +3,12 @@ Laravel Pagination for https://materializecss.com
 
 ---
 
+On Composer packagist:
+
+https://packagist.org/packages/tiagof2/materializecss-laravel-pagination
+
+---
+
 ### Installation
 ```
 composer require tiagof2/materializecss-laravel-pagination
