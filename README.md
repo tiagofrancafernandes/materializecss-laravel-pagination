@@ -42,6 +42,9 @@ return view('agenda.index', [
 ##### MaterializeCSS Colors:
 https://materializecss.com/color.html
 
+#### Demo Print
+![](print_1.png)
+
 ---
 
 Inspired by https://github.com/PhillippOhlandt/materializecss-laravel-pagination
